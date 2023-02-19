@@ -1,0 +1,7 @@
+kafka:
+  bootstrapAddress: 127.0.0.1:9092
+  topic: test-topic
+  consumer:
+    group-id: groupId
+server:
+  port: 8013
